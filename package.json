@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Booststrap",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KateGoncharik/bootstrap.git"
+  },
+  "author": "Kate Goncharik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KateGoncharik/bootstrap/issues"
+  },
+  "homepage": "https://github.com/KateGoncharik/bootstrap#readme"
+}
