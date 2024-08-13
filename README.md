@@ -49,6 +49,8 @@ Application is responsive with minimum resolution of 375px and maximum of 1920px
 
 [![HTML5][HTML5]][HTML5-url]
 
+[![Bootstrap][Bootstrap]][Bootstrap-url]
+
 [![Netlify][Netlify]][Netlify-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -81,3 +83,5 @@ To get a local copy up and running follow these simple example steps.
 [HTML5-url]: https://html.com/html5/
 [Netlify]: https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
 [Netlify-url]: https://www.netlify.com/
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com/
